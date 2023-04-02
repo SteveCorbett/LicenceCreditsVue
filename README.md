@@ -19,7 +19,6 @@ First copy the extractLicences.js file into the root directory of the project. T
 ```
     "prebuild": "node extractLicences.js",
     "postinstall": "license-checker --production --json > ./src/assets/licences.json"
-
 ```
 
 Add License Checker to the project. This will generate the licences.json file in the ./src/assets directory. If you are using the NPM package manager:
@@ -32,4 +31,8 @@ yarn add license-checker
 ```
 Finally, add the LicenceCredits component into your project, customise the headings, and apply styling as required.
 
+Note that for Angular projects, the --extract-licenses can be added to the build command which will extract a text file into the project root directory. However, it is not easy to format the output from this option and you will need to ensure that this file is included in the deliverable.
 
+```
+ng build --extract-licenses
+```
