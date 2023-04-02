@@ -1,0 +1,29 @@
+{
+  "name": "credits",
+  "private": false,
+  "publisher": "Corbett Technologies Pty Ltd",
+  "author": "Stephen Corbett",
+  "version": "1.0.0",
+  "description": "A Vue 3 app to display the licences of all the dependencies in a project.",
+  "license": "0BSD",
+  "keywords": [
+    "license",
+    "vue",
+    "vite"
+  ],
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "prebuild": "node extractLicences.js",
+    "build": "vite build",
+    "postinstall": "license-checker --production --json > ./src/assets/licences.json"
+  },
+  "dependencies": {
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "license-checker": "^25.0.1",
+    "vite": "^4.2.0"
+  }
+}

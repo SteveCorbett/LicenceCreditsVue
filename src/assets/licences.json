@@ -1,0 +1,162 @@
+{
+  "@babel/parser@7.21.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@babel/parser",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@babel/parser/LICENSE"
+  },
+  "@vue/compiler-core@3.2.47": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/compiler-core",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/compiler-core/LICENSE"
+  },
+  "@vue/compiler-dom@3.2.47": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/compiler-dom",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/compiler-dom/LICENSE"
+  },
+  "@vue/compiler-sfc@3.2.47": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/compiler-sfc",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/compiler-sfc/LICENSE"
+  },
+  "@vue/compiler-ssr@3.2.47": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/compiler-ssr",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/compiler-ssr/LICENSE"
+  },
+  "@vue/reactivity-transform@3.2.47": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/reactivity-transform",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/reactivity-transform/LICENSE"
+  },
+  "@vue/reactivity@3.2.47": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/reactivity",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/reactivity/LICENSE"
+  },
+  "@vue/runtime-core@3.2.47": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/runtime-core",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/runtime-core/LICENSE"
+  },
+  "@vue/runtime-dom@3.2.47": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/runtime-dom",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/runtime-dom/LICENSE"
+  },
+  "@vue/server-renderer@3.2.47": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/server-renderer",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/server-renderer/LICENSE"
+  },
+  "@vue/shared@3.2.47": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/shared",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/shared/LICENSE"
+  },
+  "credits@1.0.0": {
+    "licenses": "0BSD",
+    "publisher": "Stephen Corbett",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/LICENCE"
+  },
+  "csstype@2.6.21": {
+    "licenses": "MIT",
+    "repository": "https://github.com/frenic/csstype",
+    "publisher": "Fredrik Nicol",
+    "email": "fredrik.nicol@gmail.com",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/csstype",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/csstype/LICENSE"
+  },
+  "estree-walker@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Rich-Harris/estree-walker",
+    "publisher": "Rich Harris",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/estree-walker",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/estree-walker/LICENSE"
+  },
+  "magic-string@0.25.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rich-harris/magic-string",
+    "publisher": "Rich Harris",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/magic-string",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/magic-string/LICENSE"
+  },
+  "nanoid@3.3.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ai/nanoid",
+    "publisher": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/nanoid",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/nanoid/LICENSE"
+  },
+  "picocolors@1.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/alexeyraspopov/picocolors",
+    "publisher": "Alexey Raspopov",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/picocolors",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/picocolors/LICENSE"
+  },
+  "postcss@8.4.21": {
+    "licenses": "MIT",
+    "repository": "https://github.com/postcss/postcss",
+    "publisher": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/postcss",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/postcss/LICENSE"
+  },
+  "source-map-js@1.0.2": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/7rulnik/source-map-js",
+    "publisher": "Valentin 7rulnik Semirulnik",
+    "email": "v7rulnik@gmail.com",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/source-map-js",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/source-map-js/LICENSE"
+  },
+  "source-map@0.6.1": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/mozilla/source-map",
+    "publisher": "Nick Fitzgerald",
+    "email": "nfitzgerald@mozilla.com",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/source-map",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/source-map/LICENSE"
+  },
+  "sourcemap-codec@1.4.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Rich-Harris/sourcemap-codec",
+    "publisher": "Rich Harris",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/sourcemap-codec",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/sourcemap-codec/LICENSE"
+  },
+  "vue@3.2.47": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/vue",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/vue/LICENSE"
+  }
+}
+
