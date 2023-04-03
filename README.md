@@ -1,6 +1,6 @@
 # LicenceCredits
 
-This project demonstrates how to generate and display credits for the third party licences used within a Vue 3 application. This code should be easily adaptable to any other JavaScript front end applications, including those built with Angular or React.
+This project demonstrates how to generate and display credits for the third party licences used within a Vue 3 application. This code should be easily adaptable to any other JavaScript front end applications, including those built with React. An Angular version of this project can be found at [LicenceCredits](https://github.com/SteveCorbett/LicenceCreditsNg)
 
 There are two package.json scripts that are required to extract and format the licence details.
 
@@ -21,18 +21,19 @@ First copy the extractLicences.js file into the root directory of the project. T
     "postinstall": "license-checker --production --json > ./src/assets/licences.json"
 ```
 
-Add License Checker to the project. This will generate the licences.json file in the ./src/assets directory. If you are using the NPM package manager:
+Add License Checker to the project. If you are using the NPM package manager:
 ```
 npm i license-checker --save-dev
 ```
 If you are using the Yarn package manager:
 ```
 yarn add license-checker 
+``` 
+
+The first time after installing License Checker you will need to maually run the post install and prebuild processes using:
 ```
+npm run postinstall
+npm run prebuild
+```
+
 Finally, add the LicenceCredits component into your project, customise the headings, and apply styling as required.
-
-Note that for Angular projects, the --extract-licenses can be added to the build command which will extract a text file into the project root directory. However, it is not easy to format the output from this option and you will need to ensure that this file is included in the deliverable.
-
-```
-ng build --extract-licenses
-```
