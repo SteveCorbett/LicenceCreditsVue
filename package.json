@@ -1,5 +1,5 @@
 {
-  "name": "credits",
+  "name": "licence-credits-vue",
   "private": false,
   "publisher": "Corbett Technologies Pty Ltd",
   "author": "Stephen Corbett",
@@ -7,6 +7,7 @@
   "description": "A Vue 3 app to display the licences of all the dependencies in a project.",
   "license": "0BSD",
   "keywords": [
+    "licence",
     "license",
     "vue",
     "vite"

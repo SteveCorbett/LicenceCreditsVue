@@ -1,6 +1,6 @@
 # LicenceCredits
 
-This project demonstrates how to generate and display credits for the third party licences used within a Vue 3 application. This code should be easily adaptable to any other JavaScript front end applications, including those built with React. An Angular version of this project can be found at [LicenceCredits](https://github.com/SteveCorbett/LicenceCreditsNg)
+This project demonstrates how to generate and display credits for the third party licences used within a Vue 3 application. This code should be easily adaptable to any other JavaScript front end applications, including those built with React. An Angular version of this project can be found at [LicenceCreditsNg](https://github.com/SteveCorbett/LicenceCreditsNg). A JavaScript only version can be found at [LicenceCreditsJs](https://github.com/SteveCorbett/LicenceCreditsJs).
 
 There are two package.json scripts that are required to extract and format the licence details.
 
@@ -27,10 +27,10 @@ npm i license-checker --save-dev
 ```
 If you are using the Yarn package manager:
 ```
-yarn add license-checker 
+yarn add license-checker --dev
 ``` 
 
-The first time after installing License Checker you will need to maually run the post install and prebuild processes using:
+The first time after installing License Checker you may need to maually run the post install and prebuild processes using:
 ```
 npm run postinstall
 npm run prebuild
