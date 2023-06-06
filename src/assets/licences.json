@@ -77,12 +77,6 @@
     "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/shared",
     "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/@vue/shared/LICENSE"
   },
-  "credits@1.0.0": {
-    "licenses": "0BSD",
-    "publisher": "Stephen Corbett",
-    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits",
-    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/LICENCE"
-  },
   "csstype@2.6.21": {
     "licenses": "MIT",
     "repository": "https://github.com/frenic/csstype",
@@ -97,6 +91,12 @@
     "publisher": "Rich Harris",
     "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/estree-walker",
     "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/node_modules/estree-walker/LICENSE"
+  },
+  "licence-credits-vue@1.0.0": {
+    "licenses": "0BSD",
+    "publisher": "Stephen Corbett",
+    "path": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits",
+    "licenseFile": "/Users/Steve/Documents/RAD Studio/Projects/Vue 3/credits/LICENCE"
   },
   "magic-string@0.25.9": {
     "licenses": "MIT",
