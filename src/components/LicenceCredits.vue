@@ -73,7 +73,7 @@ export default {
 <script setup lang="ts">
 import { ref } from "vue";
 
-let licences = ref<ILicence[]>([]);
+const licences = ref<ILicence[]>([]);
 fetch("/licences.json", {
   headers: {
     "content-type": "application/json",
