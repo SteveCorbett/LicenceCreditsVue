@@ -23,8 +23,8 @@
     "vue": "^3.2.47"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^4.1.0",
+    "@vitejs/plugin-vue": "^5.2.3",
     "license-checker": "^25.0.1",
-    "vite": "^4.5.9"
+    "vite": "^6.2.3"
   }
 }
